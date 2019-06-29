@@ -1,4 +1,5 @@
-# Vehicle-Detection-CNNs
+# Vehicle-Detection-for Self Driving Cars
+
 Vehicle Detection for Self-Driving Cars 
 
 The repository aims to provide detection of on-road vehicles for Self-Driving Cars via TensorFlow Object Detection API.
